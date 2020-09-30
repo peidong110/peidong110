@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Payton from Carleton University
-🔭 I’m currently working on C++ and please go to peidong/study to see my progress over the summer
+🔭 I’m currently working on C++ and please go to https://github.com/peidong110/al-go-rithm
 
 <!--
 **peidong110/peidong110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
